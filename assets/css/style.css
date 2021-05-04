@@ -1,3 +1,8 @@
 body {
-    background-color: rgba(219, 35, 35, 0.925);
+    background-color: rgba(189, 50, 50, 0.925);
+}
+
+img.img-thumbnail {
+    width: 70%;
+    height: 50%;
 }
